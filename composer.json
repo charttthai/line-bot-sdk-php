@@ -1,4 +1,5 @@
-{
+ {
+   $git push heroku master
   "name": "linecorp/line-bot-sdk",
   "description": "SDK of the LINE BOT API for PHP",
   "keywords": [
